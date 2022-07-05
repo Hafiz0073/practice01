@@ -1,0 +1,67 @@
+body {
+    font-family: 'Merriweather', serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.first-part {
+    display: flex;
+    margin-bottom: 130px;
+}
+
+h1 {
+    font-size: 55px;
+
+}
+
+.heading {
+    color: #ffa500;
+}
+
+
+.half-width {
+
+    width: 50%;
+    padding-left: 4%;
+}
+
+.half-width image {
+    width: 85%;
+}
+
+.order-button {
+    color: whitesmoke;
+    padding: 13px 25px;
+    background-image: linear-gradient(orange, red);
+    text-decoration: none;
+    border-radius: 17px;
+}
+
+.second-part {
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-bottom: 100px;
+}
+
+.half-width h2 {
+    padding-top: 100px;
+}
+
+.half-width p {
+    padding-right: 200px;
+    text-align: justify;
+    margin-bottom: 40px;
+    color: rgba(34, 19, 19, 0.897);
+}
+
+.recipies {
+    text-align: center;
+    padding: 0px 200px;
+    margin-bottom: 80px;
+}
+
+.recipies p {
+    text-align: justify;
+}
